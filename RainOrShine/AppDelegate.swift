@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  RainOrShine
 //
-//  Created by Charles Prutting on 2/19/23.
+//  Created by Charles Prutting on 8/4/2022.
 //
 
 import UIKit
