@@ -17,3 +17,5 @@ RainOrShine, you still need to know the weather! RainOrShine uses CoreLocation t
 - Closures and Completion Handlers
 - UITextField for capturing user input
 - Dark-mode enabled
+
+#### This is a companion project to The App Brewery's Complete App Development Bootcamp www.appbrewery.co
